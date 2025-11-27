@@ -46,10 +46,14 @@ It reflects my own learning journey — and serves as a public demonstration of 
 1. Clone the repository:  
    ```bash
    git clone https://github.com/KapuluruChaithanya/Embedded-Systems-with-PIC.git
+
 2.Navigate to a module folder, for example:
   cd Embedded-Systems-with-PIC/1_LED_BLINKING
+
 3.Open in your PIC IDE (MPLAB / MPLAB X) — configure MCU, oscillator, and compile.
+
 4.Program the compiled firmware onto a target PIC microcontroller.
+
 5.Observe expected behavior (LED blinking / switch response / UART output, etc.).
 
 I encourage you to first try implementing the problem statement on your own. If you get stuck or something doesn’t work as expected, feel free to refer to the solutions in this repository.
